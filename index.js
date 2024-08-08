@@ -1,2 +1,2 @@
 console.log('Hello')
-console.log('This repo is edited by Ahmet');
+# deneme yazsak conflict olur mu? #
